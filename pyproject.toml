@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aplikasyon"
-version = "0.1.0"
+version = "0.2.0"
 description = "Yon Aplikasyon Streamlit"
 authors = ["Tipan Verella (chromebook) <tipan.verella@gmail.com>"]
 readme = "README.md"
