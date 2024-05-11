@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "aplikasyon"
+version = "0.1.0"
+description = "Yon Aplikasyon Streamlit"
+authors = ["Tipan Verella (chromebook) <tipan.verella@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+streamlit = "^1.34.0"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.0"
+pylint = "^3.1.0"
+pytest = "^8.2.0"
+pytest-cov = "^4.1.0"
+hypothesis = "^6.100.0"
+mypy = "^1.10.0"
+
