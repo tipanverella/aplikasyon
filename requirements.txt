@@ -1,5 +1,4 @@
 altair==5.3.0
--e git+ssh://git@github.com/tipanverella/aplikasyon.git@7c1a1aea416f946c4ebcdb67c551c04f6edf00a5#egg=aplikasyon
 astroid==3.1.0
 attrs==23.2.0
 black==24.4.2
